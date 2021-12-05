@@ -1,4 +1,4 @@
-<b>stm32资料记录<b><br>
+<b>stm32资料记录</b><br>
 · resource<br>
 关于stm32的一些个人总结记录<br>
 · stm32f103<br>
