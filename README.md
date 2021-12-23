@@ -3,7 +3,7 @@
 关于stm32的一些个人总结记录<br>
 · stm32f103<br>
 &nbsp; &nbsp; &nbsp; &nbsp;
-    ·c8t6(轻量级)<br>
+    ·c8t6<br>
 &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
         读取jy901s的姿态角示数并显示于oled屏幕上<br>
 &nbsp; &nbsp; &nbsp; &nbsp;
